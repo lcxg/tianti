@@ -12,6 +12,7 @@ public interface ArticleDao extends ArticleDaoCustom,CommonDao<Article,String>{
 
     String s = "";
     String sss = "";
+    String ss = "";
 
 
 }

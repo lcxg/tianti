@@ -11,7 +11,8 @@ import com.jeff.tianti.common.dao.CommonDao;
 public interface ArticleDao extends ArticleDaoCustom,CommonDao<Article,String>{
 
     String s = "";
-    String ss = "";
+    String sss = "";
+    String ss= "";
 
 
 }
